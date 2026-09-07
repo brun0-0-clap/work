@@ -1,0 +1,1 @@
+激活venv后PATH把虚拟环境myvenv/bin放在最前面，shell优先找这个目录下程序；deactivate是bash函数，复原旧PATH。
