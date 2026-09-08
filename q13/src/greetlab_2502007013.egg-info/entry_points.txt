@@ -1,0 +1,3 @@
+[console_scripts]
+sdt-greet = greetlab.cli:main
+
